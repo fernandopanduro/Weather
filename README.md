@@ -5,7 +5,8 @@
 
 
 
-https://user-images.githubusercontent.com/92656447/197403404-45eaf076-fdcb-4aec-b648-1b7fa9a5f6cb.mp4
+
+https://user-images.githubusercontent.com/92656447/197403517-3db1397e-8518-4551-ac72-349491c410c4.mp4
 
 
 
@@ -22,7 +23,7 @@ https://user-images.githubusercontent.com/92656447/197403404-45eaf076-fdcb-4aec-
 Bifurcar el repositorio. luego clone el repositorio localmente haciendo:
 
 ```bash
-git clone https://github.com/fernandopanduro/Movies.git
+git clone https://github.com/fernandopanduro/Weather.git
 ```
 
 ### Paso 2: Instalar las dependencias
