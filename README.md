@@ -1,7 +1,7 @@
 
 <h1 align="center"> 🌤️ Weather 🌤️ </h1>
 
-<p align="center"> 🌦️ Muestra el estado del clima en cualquir region del planeta </p> 
+<p align="center"> 🌦️ Muestra el estado del clima en cualquir region del planeta 🌦️ </p> 
 
 
 
