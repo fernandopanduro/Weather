@@ -55,6 +55,7 @@ export function WeatherMainInfo({weather}) {
             var img = `http:${weather?.current?.condition?.icon}`;
             break;
     }
+    
 
     console.log(img);
     console.log(weather?.current?.condition?.icon)
